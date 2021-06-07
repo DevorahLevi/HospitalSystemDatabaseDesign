@@ -1,6 +1,6 @@
 /*
 
-Devorah Levi - Project1
+Author: Devorah Levi
 
 Scenario 7: Hospital
 
